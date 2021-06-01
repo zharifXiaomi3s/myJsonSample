@@ -15,5 +15,13 @@
     { "name": "zharif", "email": "zharifxiaomi3s@gmail.com", "type": "latte", "size": "medium" },
     { "name": "halimatun", "email": "halimatun@gmail.com", "type": "espresso", "size": "large" },
     { "name": "ainnur", "email": "ainnur@gmail.com", "type": "cappucino", "size": "small" }
-  ]  
+  ],
+  "LoginRoute": {
+    "result": {
+        "retCode": "000000000",
+        "retMsg": "dispatch success."
+    },
+    "vspURL": "http://1.9.58.117:7001",
+    "vspHttpsURL": "https://1.9.58.117:7015"
+  }
 }
